@@ -1,3 +1,3 @@
 # github-setup:
 
-Andrew ID: osb
+Andrew ID: [osb]
